@@ -1,2 +1,2 @@
 Hello !! My Name is Nandini
-I am Leaarning Git & GitHub
+I am Learning Git & GitHub
